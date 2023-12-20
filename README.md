@@ -1,4 +1,3 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F74098356356582998%2F&psig=AOvVaw2lhFEjik2GXuXWmagEyxBN&ust=1703153520645000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMiSqbrjnYMDFQAAAAAdAAAAABAD)](https://github.com/0xahleh)
 <h1 align="center">Hi 👋, I'm Gahleh Pamungkas</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
