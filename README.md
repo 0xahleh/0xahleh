@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Gahleh Pamungkas</h1>
+<h1 align="center">Hi 👋, I'm </h1>
 <h3 align="center">A passionate Junior Full Stack Developer from Indonesia</h3>
 
 - 🌱 I’m currently learning **React, Javascript, Next.JS,PHP, Laravel**
 
 - 👨‍💻 All of my projects are available at [https://](https://)
 
-- 📫 How to reach me **gahlehpamungkas@gmail.com**
+- 📫 How to reach me **.**
 
 - ⚡ Fun fact **I love**
 
